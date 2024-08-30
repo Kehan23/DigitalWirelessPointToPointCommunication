@@ -37,8 +37,8 @@ The experiments revealed that the noise and environmental parameters significant
 
 ## 4. Contributors
 
-- Manamperige Kehan Anjula
-- Javin Manatunge
+- [Manamperige Kehan Anjula](https://github.com/Kehan23)
+- [Javin Manatunge](https://github.com/javin-5)
 - Shenal Ranasinghe
 - Selaka Deemantha
 
