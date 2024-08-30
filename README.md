@@ -43,3 +43,5 @@ The experiments revealed that the noise and environmental parameters significant
 - Selaka Deemantha
 
 The design encompasses the entire system, from the foundational blocks that define key parameters to the intricate components of the transmitter and receiver. Each part is carefully crafted to ensure seamless communication and reliable data transmission.
+
+![Entire Design](https://github.com/Kehan23/DigitalWirelessPointToPointCommunication/blob/main/Images/overall%20com.png)
